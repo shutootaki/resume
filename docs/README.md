@@ -14,7 +14,6 @@
 <p>
 <a href="https://github.com/shutootaki" target="_blank"><img alt="Github" src="https://img.shields.io/badge/shutootaki-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/_takigon" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@_takigon-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="https://qiita.com/takigon" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/takigon-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
 <a href="https://zenn.dev/takiko" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/takiko-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
 </p>
 
@@ -37,16 +36,21 @@
 
 ### 言語
 
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-</p>
+| 種類       | 期間   | レベル                                         |
+| ---------- | ------ | ---------------------------------------------- |
+| JavaScript | 7 ヶ月 | ライブラリを用いた                             |
+| TypeScript | 7 ヶ月 | 型安全性を考慮したフロントエンドの実装が可能   |
+| Solidity   | 3 ヶ月 | Web 上で簡単なスマートコントラクトの実装が可能 |
 
 ### フレームワーク・その他
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-</p>
+| 種類         | 期間   | レベル                                                                                  |
+| ------------ | ------ | --------------------------------------------------------------------------------------- |
+| React        | 7 ヶ月 | コードの保守性を考慮した設計・開発が可能<br>ライブラリを使用したキャッシュ管理が可能    |
+| AWS Amplify  | 7 ヶ月 | サーバーレス開発環境の構築が可能 <br>GraphQL を用いたフロントエンドとのデータ連携が可能 |
+| Next.js      | 3 ヶ月 | 基本的な SSR/SSG アプリケーションの実装が可能                                           |
+| React Native | 3 ヶ月 | 簡単なモバイルアプリの作成が可能                                                        |
+| Redux        | 2 ヶ月 | Redux tool kit を用いたグローバルステートの管理が可能                                   |
 
 ---
 
