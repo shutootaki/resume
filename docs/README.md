@@ -36,11 +36,11 @@
 
 ### 言語
 
-| 種類       | 期間   | レベル                                         |
-| ---------- | ------ | ---------------------------------------------- |
-| JavaScript | 7 ヶ月 | ライブラリを用いた                             |
-| TypeScript | 7 ヶ月 | 型安全性を考慮したフロントエンドの実装が可能   |
-| Solidity   | 3 ヶ月 | Web 上で簡単なスマートコントラクトの実装が可能 |
+| 種類       | 期間   | レベル                                                    |
+| ---------- | ------ | --------------------------------------------------------- |
+| JavaScript | 7 ヶ月 | ES2022 の構文を持ちたコーディング<br>非同期通信処理の実装 |
+| TypeScript | 7 ヶ月 | 型安全性を考慮したフロントエンドの実装が可能              |
+| Solidity   | 3 ヶ月 | Web 上で簡単なスマートコントラクトの実装が可能            |
 
 ### フレームワーク・その他
 
@@ -66,12 +66,12 @@
 - 規模： 2 名（内フルスタックエンジニア 1 名、フロントエンドエンジニア 1 名）
 - 役割： フロントエンドエンジニア
 - 技術スタック
-  - React (v18)
-  - TypeScript (v4)
-  - TanStack Query
-  - Jest/Testing Library
-  - AWS Amplify
-  - GraphQL
+  - 言語：TypeScript (v4)
+  - FW：React(v18), Emotion, TanStack Query, Jest/Testing Library
+  - CI/CD： Amplify Console
+  - UI： Figma, Storybook
+  - アーキテクチャ： Atomic Design
+  - その他：AWS Amplify, GraphQL
 
 ### 業務詳細
 
