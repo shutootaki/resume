@@ -21,13 +21,14 @@
 
 ## 保有スキル
 
+- React を用いた SPA 開発
 - アトミックデザインに基づくフロントエンド設計
-- AWS Amplify でのサーバーレス開発
-- Jest/Testing Library を用いたユニットテスト実装
-- Amplify Console と GitHub を連携した CI/CD の構築
+- Jest / Testing Library を用いたユニットテスト実装
 - Tanstack Query を用いたキャッシュ管理
 - Next.js を用いたアプリケーション開発
 - Redux を用いたグローバルなステート管理
+- AWS Amplify でのサーバーレスバックエンド開発
+- Amplify Console と GitHub を連携した CI/CD の構築
 - 他部署との緊密な連携
 
 ---
@@ -84,23 +85,23 @@
 
 ### 業務詳細
 
-- UI の設計構築
-- Materiul UI でのスタイル実装
-- ユーザ登録/ログイン機能の実装
-- Amplify Console と GitHub を連携した CI/CD の構築
-- Amplify サーバーレス環境の構築
-- GraphQL スキーマ設計
-- GraphQL を用いたデータやり取り
-- GraphQL Code Generator を用いた型定義ファイルの自動生成
-- Tanstack Query を用いたキャッシュ管理
-- Jest/Testing Library を用いたユニットテスト実装
-- フォームのバリデーション実装
-- 管理者ページの実装
-- アトミックデザインに基づいたフロントエンド設計
-- 法人番号 API を用いた外部連携処理
-- 権限レベルごとの画面切り替え処理
-- ダイレクトリクルーティング機能の要件定義
-- サービス収益化方法の調査/案出
+- フロントエンド
+  - React v18 を用いた SPA アプリケーションの開発
+  - アトミックデザインに基づいたフロントエンド設計
+  - Materiul UI でのスタイル実装
+  - サインイン/サインアップ機能の実装
+  - GraphQL スキーマ設計
+  - GraphQL を用いたデータやり取り
+  - GraphQL Code Generator を用いた Fetch 処理とデータ型生成の自動化
+  - Tanstack Query を用いたキャッシュ管理
+  - Jest / Testing Library を用いたユニットテスト実装
+  - フォームのバリデーション実装
+  - 法人番号 API を用いた外部連携処理
+- バックエンド・その他
+  - Amplify Console と GitHub を連携した CI/CD の構築
+  - Amplify サーバーレスバックエンド環境の構築
+  - 権限毎の画面切り替え処理
+  - ダイレクトリクルーティング機能の要件定義
 
 ### 具体的な課題と施策
 
