@@ -1,11 +1,3 @@
-<div style="text-align: right;">
-  <p>2023年1月28日 現在<br>大瀧 柊人</p>
-</div>
-
-<div style="text-align: center">
-  <h1>職務経歴書</h1> 
-</div>
-
 ## 職務要約
 
 大学卒業後、株式会社 Crane&I に入社し、自社で展開する Web サービスの開発に従事しておりました。  
