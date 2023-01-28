@@ -1,29 +1,10 @@
 <div style="text-align: right;">
-  <p>2023年1月28日現在</p>
+  <p>2023年1月28日 現在<br>大瀧 柊人</p>
 </div>
 
 <div style="text-align: center">
   <h1>職務経歴書</h1> 
 </div>
-
-## 基本情報
-
-| key      | value             |
-| -------- | ----------------- |
-| 氏名     | 大瀧 柊人         |
-| 生年月日 | 2000 年 1 月 9 日 |
-
----
-
-## 各種アカウント
-
-<p>
-<a href="https://github.com/shutootaki" target="_blank"><img alt="Github" src="https://img.shields.io/badge/shutootaki-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/_takigon" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@_takigon-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="https://zenn.dev/takiko" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/takiko-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
-</p>
-
----
 
 ## 保有スキル
 
@@ -173,3 +154,13 @@
 なぜなら、サービスは社会的意義があってこそ成立すると考えるからです。
 しかし、現状の技術力は他のエンジニアと比較して、低いと自覚おり、価値あるサービスをユーザーに届けられる状況ではありません。
 なので、3~5 年を掛けて、技術力を磨き、その集大成として、社会的意義のあるサービス開発のコアメンバーとしてユーザーに価値を届けたいです。
+
+---
+
+## 各種アカウント
+
+<p>
+<a href="https://github.com/shutootaki" target="_blank"><img alt="Github" src="https://img.shields.io/badge/shutootaki-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/_takigon" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@_takigon-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://zenn.dev/takiko" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/takiko-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+</p>
