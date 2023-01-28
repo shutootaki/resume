@@ -2,7 +2,9 @@
   <p>2023年1月28日現在</p>
 </div>
 
-# 職務経歴書
+<div style="text-align: center">
+  <h1>職務経歴書</h1> 
+</div>
 
 ## 基本情報
 
