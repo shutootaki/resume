@@ -1,3 +1,7 @@
+<div style="text-align: right;">
+  <p>2023年1月28日現在</p>
+</div>
+
 # 職務経歴書
 
 ## 基本情報
@@ -78,7 +82,7 @@
   - フロントエンドエンジニア
 - 技術スタック
   - 言語：TypeScript (v4)
-  - FW：React(v18), Emotion, TanStack Query, Jest/Testing Library
+  - ライブラリ：React(v18), Emotion, TanStack Query, Jest/Testing Library
   - CI/CD： Amplify Console
   - UI： Figma, Storybook
   - アーキテクチャ： Atomic Design
