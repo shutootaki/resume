@@ -1,7 +1,7 @@
 # Resume
 
 ## markdown
-[index.md](./doc/index.md)
+[index.md](./docs/index.md)
 
 ## HTML
 [https://shutootaki.github.io/resume/](https://shutootaki.github.io/resume/)
